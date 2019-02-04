@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    background-color: aqua;
+}
+
+h1 {
+    color: navy;
+}
+
+h3 {
+    background-color: navy;
+    color: white;
+}
+
+h4 {
+    color: maroon;
+}
+
+footer {
+    color: white;
+    background: maroon;
+}
